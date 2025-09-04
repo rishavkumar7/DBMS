@@ -57,24 +57,45 @@
 <img width="333" height="80" alt="Screenshot 2025-09-04 080746" src="https://github.com/user-attachments/assets/185357f0-f4f7-41dc-9cf0-ad9b6c28cd8a" />
 <img width="269" height="130" alt="Screenshot 2025-09-04 080803" src="https://github.com/user-attachments/assets/4b8e94a2-2512-4b92-afcb-840c580a7e08" />
 <hr>
+
+<mark>Find the total score of customers from each country and display them. Only display the country and total score's column.</mark>
+
 <img width="172" height="123" alt="Screenshot 2025-09-04 083715" src="https://github.com/user-attachments/assets/f82899ef-31cb-45e6-afe7-758c58e63e61" />
 <img width="253" height="99" alt="Screenshot 2025-09-04 083723" src="https://github.com/user-attachments/assets/8f51c6b3-ae9f-4e79-b9ce-4b149121216f" />
 <hr>
+
+<mark>Find the total score of customers from each country and display them. Only display the country and total score's column. Also rename the total score's column to total_score.</mark>
+
 <img width="308" height="125" alt="Screenshot 2025-09-04 084007" src="https://github.com/user-attachments/assets/db262bdf-8361-4a27-a91a-016c92ab3b22" />
 <img width="206" height="94" alt="Screenshot 2025-09-04 084018" src="https://github.com/user-attachments/assets/60f510bf-8ae5-43e4-8cce-c5b2f1cbaf90" />
 <hr>
+
+<mark>Find the total score of customers from each country and also with the same first_name and display them. Only display the country, first_name and total score's column. Also rename the country column to customer_country and total score's column to total_score.</mark>
+
 <img width="327" height="188" alt="Screenshot 2025-09-04 084722" src="https://github.com/user-attachments/assets/cd88f3d8-91de-4619-89c6-4cbc41b051d8" />
 <img width="325" height="142" alt="Screenshot 2025-09-04 084730" src="https://github.com/user-attachments/assets/cbff645d-1f87-4416-b95a-cd3a1f038a8a" />
 <hr>
+
+<mark>Find the total score of customers from each country and display those with total score strictly greater than 800. Only display the country, total score's column. Also rename the total score's column to total_score.</mark>
+
 <img width="304" height="169" alt="Screenshot 2025-09-04 102416" src="https://github.com/user-attachments/assets/f98133a2-f59b-4d83-b866-a3b7aa1a25e0" />
 <img width="198" height="69" alt="Screenshot 2025-09-04 102422" src="https://github.com/user-attachments/assets/485e3f46-5820-411c-a913-b0599a732c85" />
 <hr>
+
+<mark>Find the average score of customers from each country and display those with total score strictly greater than 800. Only display the country, average score's column. Also rename the average score's column to total_score.</mark>
+
 <img width="301" height="178" alt="Screenshot 2025-09-04 102536" src="https://github.com/user-attachments/assets/58c4cdb1-6eac-406b-8464-b15455e30265" />
 <img width="197" height="75" alt="Screenshot 2025-09-04 102544" src="https://github.com/user-attachments/assets/1d972379-7c53-4b3f-abe6-8cb69af5bfdb" />
 <hr>
+
+<mark>Find the average score of customers from each country whose score is not equal to zero and display those with total score strictly greater than 800. Only display the country, average score's column. Also rename the average score's column to total_score.</mark>
+
 <img width="303" height="199" alt="Screenshot 2025-09-04 102617" src="https://github.com/user-attachments/assets/d84778c8-1241-4bae-adb6-27df0b5407e2" />
 <img width="197" height="81" alt="Screenshot 2025-09-04 102626" src="https://github.com/user-attachments/assets/31a02546-f0af-405c-930a-6439f357bdca" />
 <hr>
+
+<mark>Find the average score of customers from each country whose score is not equal to zero and display those with average score strictly greater than 430. Only display the country, average score's column. Also rename the average score's column to total_score.</mark>
+
 <img width="300" height="199" alt="Screenshot 2025-09-04 102708" src="https://github.com/user-attachments/assets/bc352733-3f67-4d5f-acd3-68dc775f4cce" />
 <img width="187" height="78" alt="Screenshot 2025-09-04 102815" src="https://github.com/user-attachments/assets/3070c657-9eb7-46ac-a728-6aa8465d456f" />
 <hr>

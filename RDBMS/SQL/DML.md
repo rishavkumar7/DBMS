@@ -19,3 +19,23 @@
 <hr>
 
 ## Updating Data from Table :  
+> Always remember to add a WHERE clause at the end otherwise the entire table will be updated with the specified value.  
+<img width="189" height="75" alt="Screenshot 2025-09-05 011930" src="https://github.com/user-attachments/assets/feb86168-91ae-4e08-8013-bb592f71c7b9" />
+<img width="284" height="239" alt="Screenshot 2025-09-05 011938" src="https://github.com/user-attachments/assets/e4365469-3b6b-4076-bfb2-dfa716e99fa3" />
+<br><br>
+<img width="207" height="123" alt="Screenshot 2025-09-05 012044" src="https://github.com/user-attachments/assets/b835466a-7cc2-4b27-8b19-339a95ee390f" />
+<img width="273" height="239" alt="Screenshot 2025-09-05 012056" src="https://github.com/user-attachments/assets/e9fb9ac7-1890-4c2e-a6e6-141160ef5212" />
+<br><br>
+<img width="207" height="74" alt="Screenshot 2025-09-05 012135" src="https://github.com/user-attachments/assets/7d4130ae-f2ba-44ac-9e9a-dd3355933d4c" />
+<img width="272" height="238" alt="Screenshot 2025-09-05 012144" src="https://github.com/user-attachments/assets/ec1906fa-9f65-4eb2-a2bf-a9872a4f9adc" />
+<hr>
+
+## Deleting Data from Table :  
+> Always remember to add a WHERE clause at the end of DELETE command otherwise the entire data from the table will be deleted.
+<img width="227" height="65" alt="Screenshot 2025-09-05 013535" src="https://github.com/user-attachments/assets/7029b12d-00ba-4578-b7b6-fafad552475f" />
+<img width="269" height="136" alt="Screenshot 2025-09-05 013545" src="https://github.com/user-attachments/assets/c95fdf3b-d7c8-417b-bb2a-6a8880243f82" />
+<br><br>
+
+> If you wish to delete the entire data from the table then use TRUNCATE instead of DELETE command as its faster.
+<img width="240" height="44" alt="Screenshot 2025-09-05 013647" src="https://github.com/user-attachments/assets/7ae17236-e8cf-4414-950d-88d10008e932" />
+<img width="279" height="37" alt="Screenshot 2025-09-05 013659" src="https://github.com/user-attachments/assets/3aea2578-3aa1-41a4-a485-b6d0e15048a7" />

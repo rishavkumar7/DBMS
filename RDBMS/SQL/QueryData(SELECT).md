@@ -99,33 +99,63 @@
 <img width="300" height="199" alt="Screenshot 2025-09-04 102708" src="https://github.com/user-attachments/assets/bc352733-3f67-4d5f-acd3-68dc775f4cce" />
 <img width="187" height="78" alt="Screenshot 2025-09-04 102815" src="https://github.com/user-attachments/assets/3070c657-9eb7-46ac-a728-6aa8465d456f" />
 <hr>
+
+<mark>Find the set of unique countries of all the customers. Display only the country coulumn.</mark>
+
 <img width="168" height="78" alt="Screenshot 2025-09-04 173357" src="https://github.com/user-attachments/assets/4f08cf7e-61cb-415b-8232-07b98596c627" />
 <img width="119" height="94" alt="Screenshot 2025-09-04 173405" src="https://github.com/user-attachments/assets/5fdddbe6-d03a-41af-b5e7-b5c2a61c61f5" />
 <hr>
+
+<mark>Find the set of unique countries of all the customers. Display only the country, first_name coulumns.</mark>
+
 <img width="238" height="85" alt="Screenshot 2025-09-04 173517" src="https://github.com/user-attachments/assets/c9817021-d919-4c55-a54c-46f4d93b4861" />
 <img width="191" height="132" alt="Screenshot 2025-09-04 173526" src="https://github.com/user-attachments/assets/1aaba128-08c2-442f-b0d0-0f975e00aacb" />
 <hr>
+
+<mark>Display all the data of only the first three customers.</mark>
+
 <img width="163" height="72" alt="Screenshot 2025-09-04 174539" src="https://github.com/user-attachments/assets/067065db-7d08-4bba-922f-a0349e9a0c59" />
 <img width="263" height="90" alt="Screenshot 2025-09-04 174545" src="https://github.com/user-attachments/assets/044c99cd-0ed3-4082-9e5a-76266cccadeb" />
 <hr>
+
+<mark>Display all the data of only the first three customers. But arrange them according to their respective scores from highest to lowest.</mark>
+
 <img width="207" height="103" alt="Screenshot 2025-09-04 174629" src="https://github.com/user-attachments/assets/879b5770-a308-4432-a9a3-8f8a1e49473a" />
 <img width="268" height="90" alt="Screenshot 2025-09-04 174637" src="https://github.com/user-attachments/assets/97daac81-fe18-431a-98f5-e8a05b791983" />
 <hr>
+
+<mark>Display all the data of only the first three customers. But arrange them according to their respective scores from lowest to highest.</mark>
+
 <img width="200" height="104" alt="Screenshot 2025-09-04 174655" src="https://github.com/user-attachments/assets/8e20ef53-bc10-40b0-b7b0-cad2a219a4fd" />
 <img width="268" height="94" alt="Screenshot 2025-09-04 174703" src="https://github.com/user-attachments/assets/aefc92ae-8a00-4a58-961f-fecbcc0f46f7" />
 <hr>
+
+<mark>Display all the data from the orders table.</mark>
+
 <img width="139" height="80" alt="Screenshot 2025-09-04 174752" src="https://github.com/user-attachments/assets/dcb74c39-7f21-45a1-83a1-12d4bb789ff9" />
 <img width="324" height="113" alt="Screenshot 2025-09-04 174802" src="https://github.com/user-attachments/assets/3667664b-d0e4-49bb-9081-03775e5adfd9" />
 <hr>
+
+<mark>Display all the data of only the first two most recent orders.</mark>
+
 <img width="249" height="96" alt="Screenshot 2025-09-04 175010" src="https://github.com/user-attachments/assets/0f4b8e7c-1606-4e19-80a2-84fee2892335" />
 <img width="325" height="71" alt="Screenshot 2025-09-04 175019" src="https://github.com/user-attachments/assets/cfc6d10e-89ab-4eee-b802-98671b6296c9" />
 <hr>
+
+<mark>Display all the data from the customers table. Also, display all the data from the orders table.</mark>
+
 <img width="177" height="123" alt="Screenshot 2025-09-04 201323" src="https://github.com/user-attachments/assets/a2292dad-bc08-4d84-b72f-0c11e2d06941" />
 <img width="331" height="266" alt="Screenshot 2025-09-04 201338" src="https://github.com/user-attachments/assets/8cdfacf1-ada3-4ea9-bf77-ff56af29482d" />
 <hr>
+
+<mark>Display a static column with each row's respective value being 123. Display a static column with each row's respective value being 123 and also rename the column to be static_member. Display the id and first_name column from customers table for all the customers and also add another column with the name customer_type and value 'New Customer' for all the respective customers.</mark>
+
 <img width="357" height="230" alt="Screenshot 2025-09-04 201555" src="https://github.com/user-attachments/assets/f1d9d756-423b-4989-9e0b-a84d3c22151f" />
 <img width="256" height="276" alt="Screenshot 2025-09-04 201605" src="https://github.com/user-attachments/assets/494c9da9-07a2-4a99-8002-1cee778719ff" />
 <hr>
+
+<mark>Type the command to fetch all the data from the customers table and sort according to their respective score from highest to lowest. But highlight only the part of code without sorting statement and then execute and see what happens.</mark>
+
 <img width="210" height="86" alt="Screenshot 2025-09-04 202114" src="https://github.com/user-attachments/assets/f4e30e19-5c3d-403e-bc9a-39cb3ce25785" />
 <img width="284" height="137" alt="Screenshot 2025-09-04 202119" src="https://github.com/user-attachments/assets/19033490-cfad-4170-8542-faf08316bdb9" />
 
